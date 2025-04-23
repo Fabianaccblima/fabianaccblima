@@ -42,6 +42,14 @@ Aqui estão algumas das tecnologias que estou estudando e me aprofundando:
 📊 **Prática com visualização de dados** utilizando bibliotecas como **Matplotlib** e **Seaborn**
 
 ---
+## 💻 Tecnologias:
+
+- **Python**
+- **Pandas**
+- **SQLite**
+- **Linux**
+- **Git**
+- ---
 
 ## 📬 Vamos conversar?
 
